@@ -1,0 +1,17 @@
+nav {
+	background-color: #aba87b;
+}
+
+.brand-logo {
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+.brand-logo > img {
+	width: 60px;
+	height: 60px;
+}
+
+.page-footer {
+	background-color: #394a1d;
+}
